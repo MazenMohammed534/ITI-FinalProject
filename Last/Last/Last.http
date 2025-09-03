@@ -1,0 +1,6 @@
+@Last_HostAddress = http://localhost:5229
+
+GET {{Last_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
